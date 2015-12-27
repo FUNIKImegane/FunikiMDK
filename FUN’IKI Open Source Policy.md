@@ -1,4 +1,71 @@
 # FUN’IKI Open Source Policy
+This policy (“Policy”) of “FUN’IKI Open Source Policy Project” (“Project”) sets forth the scope and the terms and conditions of the provision of the source codes and data etc. regarding “FUN’IKI SDK” (“SDK”) or “FUN’IKI MDK” (“MDK”) by NAMAEMEGANE Inc. (“Company”).
+
+# Purpose
+1.1. The purpose of the Project is for the Company to release the source codes and data etc. and license the Company’s invention to all users of the Project (“Users”) in accordance with the Policy to promote the research development and spreading of eyeglass-type wearable devices.  
+1.2. Users shall not use the source codes and data or the inventions released or licensed under the Policy for any of the following purposes and/or use: 
+1.2.1 use under conditions such as strong or flashing light that would result in eye abnormalities.   
+1.2.2 purpose against public order or morality.  
+1.2.3 purpose of defaming or damaging the credit of the Company, SDK, MDK or FUN’IKI glasses; and     
+1.2.4 any other purposes that the Company determines falls or is likely to fall under any of the above section 1.2.1. to 1.2.3. 
+
+# Source Codes for Software
+The source codes for the software of SDK and/or MDK are released under the following licenses or coditions.  
+
+| |source codes |licenses or coditions |
+|:--:|:--:|:--:|
+|2.1|iOS Project File|[MIT](https://opensource.org/licenses/MIT "MIT")|  
+
+# Data for Hardware  
+The data for the hardware of SDK and/or MDK are released under the following licenses or coditions.  
+
+| |data|icenses or coditions|
+|:--:|:--:|:--:|
+|3.1|3D data (the configuration data for each of the parts used in the attachment parts of FUN’IKI glasses)|[Creative Commons License BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons License BY-SA 4.0 International")|  
+
+# Patents  
+The Company grants Users a free-of-charge, non-exclusive, non-transferable and non-sub-licensable license (without any restriction of territory or time) to use the Company’s inventions (including registered patent inventions and pending patent inventions) provided that (i)such usage is necessary for Users to use the source codes and the data in accordance with the licenses provided under sections 2 and 3 and (ii) such usage is not in violation of section 1.2.  
+
+# Trademarks and Other Contents  
+5.1 The following trademark is under procedure of application for trademark.　　  
+　　Trademark: 雰囲気メガネ (Japan)  
+　　Application number: 2014-064478　　  
+5.2 The “Intellectual Property Rights” (hereinafter used to refer to any rights already owned or to obtain or apply for registration of such rights) which includes copyright (including the rights specified in articles 27, 28 and other articles of the Japanese Copyright Act; the same apply hereinafter), patent rights, utility model rights, design rights, trademark rights, and other intellectual property rights in and to the trademarks and other contents of the Company are owned by the Company unless the Policy stipulates otherwise.  
+5.3 Users may not use the trademarks and other contents in any way without prior written permission by the Company.  　　 
+5.4 To obtain the permission stipulated the preceding section 5.3., please contact the below Email address.  
+　　Contact : info@fun-iki.com　　
+　　
+# Superiority of the individual Licenses  
+In the event of discrepancy between the provisions of this Policy and the provisions of the licenses regarding the source codes and data provided under sections 2 and 3 of this Policy, the provisions of the licenses regarding the source codes and data provided under sections 2 and 3 shall prevail unless provided otherwise.  
+
+# The Company’s Exemption of Liability  
+7.1 The Company shall not explicitly or implicitly guarantee that this website itself, the source codes and data provided on this website, and the licenses quoted in the Policy are free from de facto or legal flaws (including flaws relating to safety, reliability, accuracy, completion, validity, compatibility with certain purposes, security, as well as errors, bugs, and infringement of rights). The Company shall have no obligation to provide services regarding SDK and/or MDK free of such defects to Users.  
+7.2 Even in the event that damages such as facial or eye abnormalities occur among Users or third parties based on the source codes or data provided through this Project, the Company shall be no responsibility for any such damage to such Users or third parties.  
+7.3 The Company shall not in any way be responsible for any disputes or damages whatsoever arising in relation to the usage of the source codes and data provided by the Company or the interpretation and application of the Policy among Users or between Users and third parties.  
+7.4 The Company shall not provide any guarantee that the source codes and data will constantly be available on this website at any time. The Company shall not in any way be responsible for any damages caused to Users or third parties that arises from a situation where the Company cannot provide the source codes and data irrespectively of the cause of such situation such as maintenance of this website.　　
+
+#8. Modification of the provision and contents etc.　　  
+8.1 The Company may modify the contents or methods of provision of the source codes and data, the content of the license to use the Company’s inventions, or terminate the provision or the license (hereinafter referred to as the “Modifications”) when the Company deems necessary, without providing prior notice to Users.  
+8.2 The Company shall not be responsible for any disputes between Users and third parties or damages to Users or third parties arising in relation to the Modifications.
+
+#9. Modification of the Policy  
+9.1 The Company may modify the Policy when the Company deems necessary, without providing prior notice to Users.  
+9.2 Users shall be deemed to have granted valid and irrevocable consent to the modified Policy by continuing to download or use the source codes and data, or use the Company’s inventions. However, such modifications shall not affect the contents of the licenses applicable to the source codes and data that are downloaded by Users prior to the modification of the Policy in accordance with the Policy prior to the modification of the Policy.
+
+#10. Governing Law and Jurisdiction
+10.1 Where the Company has provided Users with a translation of the Japanese language version of the Policy (“Japanese Version”), the Japanese Version and a translation will govern the relationship between Users and the Company. In the event of a contradiction between Japanese Version and a translation, the provisions in the Japanese Version shall take precedence over any other translation. The Policy shall be governed by the laws of Japan.  
+10.2 Any disputes that arise from the Policy or are related to the Policy will be governed primarily under the exclusive jurisdiction of the Tokyo District Court or the Tokyo Summary Court.  
+
+NAMAEMEGANE Inc.
+Prescribed on December 28th, 2015
+
+
+
+
+
+
+
+# FUN’IKI オープンソースポリシー  
 株式会社なまえめがね（以下「当社」といいます。）は、本ポリシーにおいて、「FUN’IKI SDK」（以下「SDK」といいます。）および「FUN'IKI　MDK」（以下「MDK」といいます。）に関するソースコードおよびデータ等の公開内容およびその利用条件等について定めます。
 
 #1. 目的  
