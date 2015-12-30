@@ -8,9 +8,8 @@ stp,stl　　
 #ファイルの構成  
 1.FUN'IKI_Glasses  
 ・雰囲気メガネ外装3Dデータ  
-(FUN'IKI_Glasses.stl,FUN'IKI_Glasses.stp)  
-   
- 　　
+ (FUN'IKI_Glasses.stl,FUN'IKI_Glasses.stp)  
+
 2.Mannequin_Head　　
 ・男性、女性の顔のスキャニングデータ  
 （Mannequin_Head_Men.stl,Mannequin_Head_women.stl）  
