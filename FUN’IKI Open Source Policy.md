@@ -1,5 +1,5 @@
 # FUN’IKI Open Source Policy
-This policy (“Policy”) of “FUN’IKI Open Source Policy Project” (“Project”) sets forth the scope and the terms and conditions of the provision of the source codes and data etc. regarding “FUN’IKI SDK” (“SDK”) or “FUN’IKI MDK” (“MDK”) by NAMAEMEGANE Inc. (“Company”).
+This policy (“Policy”) of “FUN’IKI Open Source Policy Project” (“Project”) sets forth the scope and the terms and conditions of the provision of the source codes and data etc. regarding “FUN’IKI SDK” (“SDK”) or “FUN’IKI MDK” (“MDK”) by Namae-Megane Inc. (“Company”).
 
 # Purpose
 1.1. The purpose of the Project is for the Company to release the source codes and data etc. and license the Company’s invention to all users of the Project (“Users”) in accordance with the Policy to promote the research development and spreading of eyeglass-type wearable devices.  
