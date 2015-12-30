@@ -17,14 +17,14 @@ The source codes for the software of SDK and/or MDK are released under the follo
 |2.1|iOS Project File|[MIT](https://opensource.org/licenses/MIT "MIT")|  
 
 # Data for Hardware  
-The data for the hardware of SDK and/or MDK are released under the following licenses or coditions.  
+The data for the hardware of MDK are released under the following licenses or conditions.  
 
-| |data|icenses or coditions|
+| |data|icenses or conditions|
 |:--:|:--:|:--:|
 |3.1|3D data (the configuration data for each of the parts used in the attachment parts of FUN’IKI glasses)|[Creative Commons License BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons License BY-SA 4.0 International")|  
 
 # Patents  
-The Company grants Users a free-of-charge, non-exclusive, non-transferable and non-sub-licensable license (without any restriction of territory or time) to use the Company’s inventions (including registered patent inventions and pending patent inventions) provided that (i)such usage is necessary for Users to use the source codes and the data in accordance with the licenses provided under sections 2 and 3 and (ii) such usage is not in violation of section 1.2.  
+The Company grants Users a free-of-charge, non-exclusive, non-transferable and non-sub-licensable license (without any restriction of territory or time) to use the Company’s inventions (including registered patent inventions and pending patent inventions) provided that (i) such usage is necessary for Users to use the source codes and the data in accordance with the licenses provided under sections 2 and 3 and (ii) such usage is not in violation of section 1.2.  
 
 # Trademarks and Other Contents  
 5.1 The following trademark is under procedure of application for trademark.　　  
@@ -56,7 +56,7 @@ In the event of discrepancy between the provisions of this Policy and the provis
 10.1 Where the Company has provided Users with a translation of the Japanese language version of the Policy (“Japanese Version”), the Japanese Version and a translation will govern the relationship between Users and the Company. In the event of a contradiction between Japanese Version and a translation, the provisions in the Japanese Version shall take precedence over any other translation. The Policy shall be governed by the laws of Japan.  
 10.2 Any disputes that arise from the Policy or are related to the Policy will be governed primarily under the exclusive jurisdiction of the Tokyo District Court or the Tokyo Summary Court.  
 
-NAMAEMEGANE Inc.
+Namae-Megane Inc.  
 Prescribed on December 28th, 2015
 
 
