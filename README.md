@@ -1,4 +1,4 @@
-# FunikiMDK(Manifacture Development Kit)
+# FunikiMDK(Manufacture Development Kit)
 
 雰囲気メガネMDK（製造開発キット）を用いれば、ご自分で雰囲気メガネのアタッチパーツを作ることができます。サンプルの3Dデータを元に様々な用途を想定したパーツをデザインして３Dプリンタ等で形にしていただけます。
 
